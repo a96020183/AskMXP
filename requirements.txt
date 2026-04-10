@@ -3,3 +3,8 @@ pandas
 plotly
 requests
 openpyxl
+python-pptx
+kaleido
+anthropic
+PyYAML
+python-dotenv
